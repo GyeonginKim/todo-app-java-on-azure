@@ -1,4 +1,4 @@
-node('master') {
+node('Built-In Node') {
 
     def servicePrincipalId = '826b6d41-30ff-4dd1-b056-debd2004ad12'
     def resourceGroup = 'oscar-test'
